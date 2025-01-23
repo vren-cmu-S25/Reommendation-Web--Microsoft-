@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+/Users/vincentren/Desktop/Academic/Microsoft Intern/java/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1056433223.index
+799501191.index
+3057153667.index
+3991187548.index
+1300147375.index
